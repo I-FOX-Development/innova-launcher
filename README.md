@@ -2,6 +2,8 @@
 
 A Flutter-based launcher for Python apps and games with automatic setup.
 
+use the releases as this code wont build (i dont know how to use git)
+
 ## Features
 
 - Checks for Python installation and provides installation guidance
